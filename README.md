@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal and/or school projects.
 - 🌱 I’m currently building skill in Javascript, ReactJs, PHP, MySQL, Symphony, Drupal, SQL, Redux... 
-- 👯 I’m looking to collaborate on projects using the aforementioned langauges.
+- 👯 I’m looking forward to collaborate on projects using the aforementioned langauges.
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ebizimohabodei-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebizimohabodei@gmail.com)](mailto:ebizimohabodei@gmail.com) || [![Linkedin Badge](https://img.shields.io/badge/-EbizimohAbodei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abodei-ebizimoh-94477389/)](https://www.linkedin.com/in/abodei-ebizimoh-94477389/)
 - 😄 Pronouns: He/him
