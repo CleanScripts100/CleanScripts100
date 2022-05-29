@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EbizimohAbodei.EbizimohAbodei)
 
+## Recent Projects
+
+- https://recipe-application-ebizimoh.herokuapp.com/
+
