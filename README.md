@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ebizimohabodei-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebizimohabodei@gmail.com)](mailto:ebizimohabodei@gmail.com) || [![Linkedin Badge](https://img.shields.io/badge/-EbizimohAbodei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abodei-ebizimoh-94477389/)](https://www.linkedin.com/in/abodei-ebizimoh-94477389/)
 - 😄 Pronouns: He/him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebizimohabodei&hide=TeX&layout=compact)
+[![Node CI](https://github.com/EbizimohAbodei/null_or_empty/actions/workflows/main.yml/badge.svg)](https://github.com/EbizimohAbodei/null_or_empty/actions/workflows/main.yml)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EbizimohAbodei.EbizimohAbodei)
 
