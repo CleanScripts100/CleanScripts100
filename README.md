@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 #### DevOps
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon_aws&logoColor=white"  />
-  <img alt="Azure Devops" src="	https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure_devops&logoColor=white"  />
+  <img alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure_devops&logoColor=white"  />
   <img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github_actions&logoColor=white"  />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="" src=""  />
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 #### Other Tools
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Slack" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"  />
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"  />
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"  />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"  />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"  />
