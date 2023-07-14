@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently freelancing and working on personal projects.
-- 🌱 I’m building skill in Javascript, ReactJs, Typescript, NodejS, PHP, MySQL, Symphony, Drupal, SQL, Redux... 
+- 🔭 I’m currently a trainee at Integrify Software Development Academy.
+- 🌱 I’m building skills in Javascript, ReactJs, ReduxToolkit, Typescript, C#, PostgreSQL, RESTAPI, NodejS, PHP, MySQL, Symphony, Drupal, SQL... 
 - 👯 I’m looking forward to collaborating on projects using, but not limited to the aforementioned langauges, frameworks...
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ebizimohabodei-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebizimohabodei@gmail.com)](mailto:ebizimohabodei@gmail.com) || [![Linkedin Badge](https://img.shields.io/badge/-EbizimohAbodei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abodei-ebizimoh-94477389/)](https://www.linkedin.com/in/abodei-ebizimoh-94477389/)
