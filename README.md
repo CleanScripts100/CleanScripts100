@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ebizimohabodei-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebizimohabodei@gmail.com)](mailto:ebizimohabodei@gmail.com) || [![Linkedin Badge](https://img.shields.io/badge/-EbizimohAbodei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abodei-ebizimoh-94477389/)](https://www.linkedin.com/in/abodei-ebizimoh-94477389/)
 - 😄 Pronouns: He/him
 
+Website portfolio: [Click here](https://portfolio-next-js-o41s.vercel.app/) - Work in progress
+
 ## Languages, tools, frameworks, etc.
 
 #### Front-end
