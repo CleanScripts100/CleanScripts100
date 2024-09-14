@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m building skills in Javascript, ReactJs, ReduxToolkit, Typescript, C#, PostgreSQL, RESTAPI, NodejS, PHP, MySQL, Symphony, Drupal, SQL... 
 - 👯 I’m looking forward to collaborating on projects using, but not limited to the aforementioned langauges, frameworks...
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ebizimohabodei-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebizimohabodei@gmail.com)](mailto:ebizimohabodei@gmail.com) || [![Linkedin Badge](https://img.shields.io/badge/-EbizimohAbodei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abodei-ebizimoh-94477389/)](https://www.linkedin.com/in/abodei-ebizimoh-94477389/)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ebizimohabodei-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebizimohabodei@gmail.com)](mailto:pmanred@yahoo.com) || [![Linkedin Badge](https://img.shields.io/badge/-EbizimohAbodei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-ugwu-3952a9154/)](https://www.linkedin.com/in/a-ugwu-3952a9154/)
 - 😄 Pronouns: He/him
 
 Website portfolio: [Click here](https://portfolio-next-js-o41s.vercel.app/) - Work in progress
