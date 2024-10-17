@@ -32,8 +32,8 @@ Website portfolio: [Click here](https://portfolio-next-js-o41s.vercel.app/) - Wo
     <img alt="Javascript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  />
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"  />
-    <img alt="NextJS" src="https://shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"  />
-    <img alt="ExpressJS" src="https://shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat"  />
+    <img alt="NextJS" src="https://shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"  />
+    <img alt="ExpressJS" src="https://shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat-square"  />
     <img alt="" src=""  />
 </p>
 
